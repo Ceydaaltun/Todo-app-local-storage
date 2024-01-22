@@ -1,0 +1,1 @@
+In this project, to-do tasks could be created, edited, deleted or saved through local storage. This project was created utilizing local storage and handling form inputs. 
